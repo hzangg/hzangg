@@ -3,6 +3,7 @@
 <h3 align="center">A student at the University of Information Technology, majoring in UX UI design.</h3>
 <img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
+<h4 align="justify">🔭 I am a 2nd year student at the University of Information Technology, Ho Chi Minh City National University. My goal is to become a UX UI designer in the future. Currently, I am still constantly learning and looking for new opportunities for my dream. Hopefully my projects can give you good impressions.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzangg&label=Profile%20views&color=0e75b6&style=flat" alt="hzangg" /> </p>
 
 <h3 align="left">Connect with me:</h3>
